@@ -16,7 +16,7 @@ A little bit about myself.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/samarthsinh2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samarthsinh2660" height="30" width="40" /></a>
-<a href="https://instagram.com/samarthsinh__2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarthsinh__2660" height="30" width="40" /></a>
+<a href="https://instagram.com/samarthsinh_2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarthsinh__2660" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samarthsinh_2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthsinh_2660" height="30" width="40" /></a>
 </p>
 
