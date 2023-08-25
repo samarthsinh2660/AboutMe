@@ -1,7 +1,7 @@
 # AboutMe
 A little bit about myself.
 <h1 align="center">Hi 👋, I'm Samarthsinh vala</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate computer scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthsinh2660&label=Profile%20views&color=0e75b6&style=flat" alt="samarthsinh2660" /> </p>
 
