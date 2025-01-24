@@ -1,30 +1,104 @@
-# AboutMe
-A little bit about myself.
-<h1 align="center">Hi 👋, I'm Samarthsinh vala</h1>
-<h3 align="center">A passionate computer scientist from India</h3>
+# 💫 About Me:
+###  SERN Stack
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="Globe Showing Asia-Australia" width="30" align="center" /> Competitive Programmer from **India** 🇮🇳
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" align="center" /> I'm in a 2nd year Computer Science Undergrad from **PDEU**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" align=center /> I’m currently working on **MERN Stack** 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthsinh2660&label=Profile%20views&color=0e75b6&style=flat" alt="samarthsinh2660" /> </p>
 
-- 🔭 I’m currently working on **game development and clouding**
-
-- 🌱 I’m currently learning **java and c**
-
-- 👯 I’m looking to collaborate on **cybersecurity**
-
-- 📫 How to reach me **rajuvala80@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h1>Socials </h1>
 <p align="left">
-<a href="https://twitter.com/samarthsinh2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samarthsinh2660" height="30" width="40" /></a>
-<a href="https://instagram.com/samarthsinh_2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samarthsinh__2660" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/samarthsinh_2660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samarthsinh_2660" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/samarth-vala-489a3428a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aayush Gondaliya" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/samarthsinh_2660/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayushbg_56" height="30" width="40" /></a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarthsinh2660&show_icons=true&locale=en&layout=compact" alt="samarthsinh2660" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samarthsinh2660&show_icons=true&locale=en" alt="samarthsinh2660" /></p>
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samarthsinh2660&" alt="samarthsinh2660" /></p>
+
+# <b> Skills</b> 💻
+
+<table align="center" class="table table-dark">
+  <tr bg-dark>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="55" height="55" />
+      <br>C++
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="55" height="55" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="55" height="55" />
+      <br>React Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" alt="icon" width="55" height="55" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" alt="icon" width="55" height="55" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="55" height="55" />
+      <br>Node Js
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" alt="icon" width="55" height="55" />
+      <br>Express
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" alt="icon" width="55" height="55" />
+      <br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="55" height="55" />
+      <br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="icon" width="55" height="55" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="55" height="55" />
+      <br>Java
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="55" height="55" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="55" height="55" />
+      <br>Vercel
+    </td>
+
+  </tr>
+  <tr>
+   
+
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="55" height="55" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+        <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=c" alt="icon" width="55" height="55" />
+      <br>C
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postman" alt="icon" width="55" height="55" />
+      <br>Postman
+    </td>
+    
+    
+  </tr>
+</table>
